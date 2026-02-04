@@ -1,0 +1,30 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+bin/
+lib/
+develop-eggs/
+dist/
+eggs/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- VS Code ---
+.vscode/
+.history/
+*.code-workspace
+
+# --- Archivos de Sistema y Datos ---
+.DS_Store
+Thumbs.db
+*.log
+*.sqlite3
